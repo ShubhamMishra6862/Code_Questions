@@ -5,9 +5,12 @@ using ll = long long;
 //our main idea is to count all subarray with sum <=goal ans then subtract it with value <=goal-1
 int atmost(vector<int>&arr,int goal){
 	int i=0,j=0,count=0,ans=0;
+	if(goal<0){ //corner case what is goal gets zero than it will overflow
+        return 0;
+    }
 	for(i=0;i<arr.size();i++){
 		count+=arr[i];
-		while(count>goal){
+		while(count>goal){// if sum >goal than this means that subarray is not required so decrease our window fomr left
 			count-=arr[j];
 			j++;
 		}
