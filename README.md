@@ -1,6 +1,7 @@
 # Code_Questions
 The set of major question that is done by me full scratch
 
+TILL NOW MY CODING IS: 4.5*
 ******MY FLAWS******
 1. I get confuse in while solving problem 
 solution: Take time make approach than dry run first 
