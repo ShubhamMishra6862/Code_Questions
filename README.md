@@ -1,8 +1,7 @@
 # Code_Questions
 The set of major question that is done by me full scratch
 
-TILL NOW MY CODING IS: 3:star:
-
+TILL NOW MY CODING IS: ⭐⭐⭐
 
 ******MY FLAWS******
 1. I get confuse in while solving problem 
