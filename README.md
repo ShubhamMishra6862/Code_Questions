@@ -1,7 +1,7 @@
 # Code_Questions
 The set of major question that is done by me full scratch
 
-TILL NOW MY CODING IS: 3:start:
+TILL NOW MY CODING IS: 3:star:
 
 
 ******MY FLAWS******
