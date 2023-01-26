@@ -8,6 +8,8 @@ TILL NOW MY CODING IS: ⭐⭐⭐
 solution: Take time make approach than dry run first 
 
 2. I have to think fast get to the solution 
+3. I need to first understand pattern carefully analyze question
+
 
 
 ***NOTES***
