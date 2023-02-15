@@ -18,6 +18,6 @@ solution: Take time make approach than dry run first
 3. to convert a number to string than to_string(39) ="39";
 4. if a question is given with N nodes and N-1 edges then it is a tree.
 5. The best Way Codeforcers store Frequency of alphabet is using **26 length CHAR or INT Array**.
-   code is below:<br>
-   vector<int> cnt(26, 0);
-    for(auto x: s) cnt[x - 'a']++;
+CODE IS BELOW:
+vector<int> cnt(26, 0);
+for(auto x: s) cnt[x - 'a']++;
