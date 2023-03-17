@@ -48,7 +48,7 @@ int main()
     // dp[0][3]=max(points[0][1],max(points[0][1],points[0][2]));
     for (int i = 1; i < n; i++)
     {
-        for (int last = 0; last < 3; last++)
+        for (int last = 0; last < 4; last++)
         {
             dp[i][last] = 0;
             for (int j = 0; j < 3; j++)
@@ -64,12 +64,5 @@ int main()
         cout << endl;
     }
     
-    for (int i = 0; i < n; i++)
-    {
-        for (int j = 0; j < 3; j++)
-        {
-            cout << dp[i][j] << " ";
-        }
-        cout << endl;
-    }
+    return dp[n-1][3];
 }
