@@ -1,4 +1,4 @@
-#Leetcode question Reorder routes to make all path lead to city zero
+#Leetcode question Reorder routes to make all path lead to city zero https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/editorial/
 
 class Solution {
 public:
