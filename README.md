@@ -9,7 +9,9 @@ solution: Take time make approach than dry run first
 
 2. I have to think fast get to the solution 
 3. I need to first understand pattern carefully analyze question
-
+4. Read Question carefully 
+5. Increase your thinking ability
+6. Dry Run on copy **Important**
 
 
 ***NOTES***
